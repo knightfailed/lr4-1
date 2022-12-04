@@ -6,17 +6,17 @@
 
 
 
-![РИСУНОК](https://gspics.org/image/0XYevm)  
+![РИСУНОК](https://gspics.org/images/2022/12/04/0XjomD.png)  
 
-![РИСУНОК](https://gspics.org/image/0XYzkO)
+![РИСУНОК](https://gspics.org/images/2022/12/04/0XjpfI.png)
 
 Рисунок 4.1 - Окно Hierarchy 
 
-![РИСУНОК](https://gspics.org/image/0Xj893)  
+![РИСУНОК](https://gspics.org/images/2022/12/04/0Xj2ra.png)  
 
 Рисунок 4.2 - Окно Inspector объекта «Bird»
 
-![РИСУНОК](https://gspics.org/image/0XjIqy)
+![РИСУНОК](https://gspics.org/images/2022/12/04/0Xj7TQ.png)
 
 Рисунок 4.3 - Окно Inspector объекта «PurpleMonster»
 
